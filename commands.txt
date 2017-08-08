@@ -1,0 +1,5 @@
+These are Commands & Their Function.
+(Not Completed: Their aren't all commands.)
+
+Commands:
+.get -error,[custom]:go live
